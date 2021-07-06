@@ -142,6 +142,7 @@ a {
 }
 
 .portfolio-item {
+  margin-bottom: 10px;
   width: 60vw;
   height: 100%;
   display: -webkit-box;
